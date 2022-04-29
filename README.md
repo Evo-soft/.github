@@ -1,2 +1,1 @@
-# .github
-Evo-soft
+# Welcome to Evo-soft

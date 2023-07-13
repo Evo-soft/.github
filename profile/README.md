@@ -1,4 +1,4 @@
-# Welcome to Evo-soft
+# Welcome to BCN
 
 <!--
 
@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Evo-soft Ltd are a leading UK Microsoft Gold Enterprise Resource Planning Partner.
+BCN are a leading UK Microsoft Gold Enterprise Resource Planning Partner.
 
 <b>Software</b> : Our solutions are built on world-class Microsoft business software tailored to meet your needs.  
 <b>Solutions</b> : At Evo-soft we take a commercially holistic and collaborative approach with all our clients.  
@@ -22,7 +22,7 @@ Enterprise, Resource & Planning (ERP) software integrates all facets of business
 
 It originally included planning, manufacturing, sales, and marketing, but has expanded to include other business activities such as inventory control, order tracking, customer service, finance and human resources as the ERP methodology has become more popular.
 
-Microsoft Dynamics 365 Business Central is an ERP solution that is incredibly adaptable and extremely robust, as such Evo-Soft utilise this ERP system and add considerable functionality to create Evo-Supply to deliver an outstanding ERP system for importers and distributors.
+Microsoft Dynamics 365 Business Central is an ERP solution that is incredibly adaptable and extremely robust, as such BCN utilise this ERP system and add considerable functionality to create Evo-supply to deliver an outstanding ERP system for importers and distributors.
 
 # Evo-supply
 #### The feature-rich software solution for use in the supply chain industry powered by Microsoft Dynamics 365 Business Central
@@ -39,4 +39,4 @@ Reducing errors, speeding up processes and providing full reporting of live auct
 Based on the Microsoft Dynamics 365 Business Central accounts package this auction software integrates all the standard award winning accounting features to meet the requirements of auction houses. Everything a successful auction house needs in one package.
 
 # Further reading
-For more information on software and services from Evo-soft, visit our [website](https:evo-soft.co.uk).
+For more information on software and services from BCN, visit our [website](https://bcn.co.uk).

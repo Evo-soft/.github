@@ -14,8 +14,8 @@
 BCN are a leading UK Microsoft Gold Enterprise Resource Planning Partner.
 
 <b>Software</b> : Our solutions are built on world-class Microsoft business software tailored to meet your needs.  
-<b>Solutions</b> : At Evo-soft we take a commercially holistic and collaborative approach with all our clients.  
-<b>Delivery</b> : Evo-soft has a broad industry and business process expertise which underpins project delivery.  
+<b>Solutions</b> : At BCN we take a commercially holistic and collaborative approach with all our clients.  
+<b>Delivery</b> : BCN has a broad industry and business process expertise which underpins project delivery.  
 
 # What is ERP?
 Enterprise, Resource & Planning (ERP) software integrates all facets of business, providing a consistent, efficient, and consolidated platform.
@@ -26,7 +26,7 @@ Microsoft Dynamics 365 Business Central is an ERP solution that is incredibly ad
 
 # Evo-supply
 #### The feature-rich software solution for use in the supply chain industry powered by Microsoft Dynamics 365 Business Central
-Evo-supply is evolutionary software from Evo-soft built for the Importation, Distribution, and Simple Manufacturing industries. The Evo-supply product is based on Microsoft Dynamics 365 Business Central, formerly Microsoft Dynamics NAV which powers the core capabilities and seamlessly integrates with the additional functionality added to create a feature-rich software solution for use in the supply chain industry.
+Evo-supply is evolutionary software from BCN built for the Importation, Distribution, and Simple Manufacturing industries. The Evo-supply product is based on Microsoft Dynamics 365 Business Central, formerly Microsoft Dynamics NAV which powers the core capabilities and seamlessly integrates with the additional functionality added to create a feature-rich software solution for use in the supply chain industry.
 
 This flexible distribution management software has been designed by experienced Business Central and NAV consultants and developers with many years of industry experience in the importation, distribution and simple manufacturing sectors.
 
